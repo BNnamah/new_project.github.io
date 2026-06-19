@@ -1,7 +1,4 @@
----
-layout: default
-title: My Custom Page
----
+<html><style>header { display: none !important; }</style></html>
 
 # PORTFOLIO
 
