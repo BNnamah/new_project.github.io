@@ -6,4 +6,4 @@ TELECOMMUNICATION ISSUES SOLVED
 
 
 
-![dashboard showing how the business moves]()
+![dashboard showing how the business moves](images.jpg)
