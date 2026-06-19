@@ -1,6 +1,9 @@
 ---
-# PORTFOLIO
+layout: default
+title: My Custom Page
 ---
+
+# PORTFOLIO
 
 TELECOMMUNICATION ISSUES SOLVED
 
