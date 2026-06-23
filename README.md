@@ -1,7 +1,3 @@
-title: ""
-
-_config.yml
-
 ![LinkedIn Banner](https://github.com/user-attachments/assets/1e146d85-fe1d-4c1c-8580-d58595243537)
 # 👋🏽 Hi, I’m Khairat Olaleye  
 
